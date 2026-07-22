@@ -5,8 +5,8 @@
   :name-en "Sudan"
   :name-local "السودان"
   :wikidata "Q1049"
-  :head-role "public procurement authority"
-  :head-role-note "institutional office title only; personal names of current office-holders are intentionally NOT stored"
+  :head-role "General Directorate for Procurement, Contracting & Disposal of Surplus"
+  :head-role-note "institutional office title only; personal names of current office-holders are intentionally NOT stored. Named per the Procurement, Contracting & Disposal of Surplus Act (2010, implementing regulations 2011) -- see src/marketentry/facts.cljc and docs/business-model.md for the research basis."
   :contact-page "https://www.wikidata.org/wiki/Q1963"
   :sourced-from "com-etzhayyim-ooyake gov-units (verbatim where present)"
   :hq {:line-en "Khartoum" :country "sdn" :kind "capital" :provenance "https://www.wikidata.org/wiki/Q1963" :last-verified "2026-07-10" :sourcing "authoritative"}
