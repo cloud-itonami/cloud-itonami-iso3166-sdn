@@ -40,7 +40,7 @@ operative legal basis is the **Procurement, Contracting & Disposal of
 Surplus Act** (2010, implementing regulations 2011), administered by the
 General Directorate for Procurement, Contracting & Disposal of Surplus. If
 you find a verifiable source for a national e-procurement portal or a more
-detailed evidence checklist, extend `src/marketentry/facts.cljc`'s
+detailed evidence checklist, extend `src/marketentry/facts.cljk`'s
 `catalog` -- do not hand-edit a claim into this guide or any other doc
 without an official source.
 
