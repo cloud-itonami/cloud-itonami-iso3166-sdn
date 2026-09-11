@@ -13,7 +13,7 @@ of Finance and Economic Planning). **Six** governor checks, not the AGO
 reference's seven -- see `src/marketentry/governor.cljk` for why.
 
 ```
-clojure -M:dev:test
+kbb -M:dev:test
 ```
 
 ## Grounding: this dossier is intentionally thin
