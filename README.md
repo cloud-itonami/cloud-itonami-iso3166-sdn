@@ -10,7 +10,7 @@ thinner-dossier jurisdictions.
 Flagship check: `registration-missing` (Sudan commercial registration via
 the Ministry of Justice + corporate/company registration via the Ministry
 of Finance and Economic Planning). **Six** governor checks, not the AGO
-reference's seven -- see `src/marketentry/governor.cljc` for why.
+reference's seven -- see `src/marketentry/governor.cljk` for why.
 
 ```
 clojure -M:dev:test
@@ -20,7 +20,7 @@ clojure -M:dev:test
 
 Sudan's public web presence for government/regulatory information is
 limited, and the country's current instability further limits verifiable
-current information -- this actor's `src/marketentry/facts.cljc` catalog
+current information -- this actor's `src/marketentry/facts.cljk` catalog
 is deliberately thinner than sibling jurisdictions (including the
 already-thin `cloud-itonami-iso3166-stp`) rather than padded to look more
 complete than the evidence supports. What IS verified, and is what this
@@ -60,7 +60,7 @@ Alongside the market-entry / statute catalogs, this repo carries a
 `com-junkawasaki/root`) — national dishes, protected products, beverages,
 crafts, festivals and heritage sites for Sudan:
 
-- `src/culture/facts.cljc` — the catalog, source of truth (keyed by
+- `src/culture/facts.cljk` — the catalog, source of truth (keyed by
   uppercase ISO3, mirroring `statute.facts`).
 - `schema/culture.edn` — DataScript schema.
 - `data/culture-tx.edn` — derived DataScript tx-data (regenerated from
